@@ -2,7 +2,7 @@
 %define		_splash		login-scan-splash
 
 Summary:	login-scan 'splash' KDE splash screen
-Summary(pl):	Ekran startowy KDE login-scan 'splash'
+Summary(pl.UTF-8):   Ekran startowy KDE login-scan 'splash'
 Name:		kde-splash-%{_splash}
 Version:	0.2
 Release:	2
@@ -19,7 +19,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 login-scan 'splash' KDE splash screen.
 
-%description -l pl
+%description -l pl.UTF-8
 Ekran startowy KDE login-scan 'splash'.
 
 %prep
