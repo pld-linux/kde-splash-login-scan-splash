@@ -5,8 +5,8 @@ Summary:	login-scan 'splash' KDE splash screen
 Summary(pl.UTF-8):	Ekran startowy KDE login-scan 'splash'
 Name:		kde-splash-%{_splash}
 Version:	0.2
-Release:	2
-License:	check first if it's GPL
+Release:	3
+License:	GPL
 Group:		X11/Amusements
 Source0:	http://www.rokkford.de/loginscansplash/%{_splash}.tar.gz
 # Source0-md5:	e0078d6de0561ffdda9ee7cba0a0af53
